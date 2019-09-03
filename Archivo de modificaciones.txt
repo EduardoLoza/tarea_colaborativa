@@ -1,3 +1,13 @@
 Este archibo sera utilizado pra para emular modificaciones en el proyecto colaborativo.
 
-Jpriverasaha
+Jpriverasaha 
+
+danielch4.
+
+El repositorio remoto actualizado se puede encontrar en las url's
+
+https://github.com/Jpriverasaha/tarea_colaborativo
+
+https://github.com/danielch4/tarea_colaborativo"
+
+donde Jpriverasaha y danielch4 son las cuentas de GitHub de la Persona 1 y la Persona 2, respectivamente.
